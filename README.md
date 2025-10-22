@@ -1,4 +1,4 @@
-# Pastel Tic-Tac-Toe
+# Tic-Tac-Toe
 
 A **pastel-themed Tic-Tac-Toe game** developed in **Java Swing**. This game supports both **two-player mode** (play with a friend) and **single-player mode** (play against the computer). It comes with a **scoreboard**, **undo move** (for two-player mode), and a **decorative UI** with pastel colors for an enhanced visual experience.
 
